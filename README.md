@@ -1,1 +1,1 @@
-# Financial_modelling
+# financial-modelling
